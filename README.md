@@ -10,7 +10,7 @@ Usage
 -----
 
     $ ls
-    .vendor_urls
+    .vendor-packages
     .buildpacks
 
     $ heroku create --stack cedar --buildpack http://github.com/dollar/heroku-buildpack-multi.git
